@@ -18,18 +18,30 @@ handwritten forensic data set generated at CDAC Kolkata.
 
 **REQUIREMENTS**
 
-Python \n
+Python
+
 TensorFlow
+
 Keras
+
 NumPy
+
 scikit-image
+
 OpenCV
+
 Augmentor
+
 imgaug
+
 Matplotlib
+
 split-folders
+
 seaborn
+
 tqdm
+
 
 **METHODOLOGY**
 
