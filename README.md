@@ -18,7 +18,7 @@ handwritten forensic data set generated at CDAC Kolkata.
 
 **REQUIREMENTS**
 
-Python
+Python \n
 TensorFlow
 Keras
 NumPy
